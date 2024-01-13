@@ -1,0 +1,4 @@
+﻿  Zad2.c
+C:\Users\mateb\Desktop\strukpod\zad 2\zad2\Zad2.c(55,22): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\mateb\Desktop\strukpod\zad 2\zad2\Zad2.c(76,13): warning C4047: 'return': 'position' differs in levels of indirection from 'int'
+  zad2.vcxproj -> C:\Users\mateb\Desktop\strukpod\zad 2\zad2\x64\Debug\zad2.exe
